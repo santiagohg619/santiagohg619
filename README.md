@@ -1,6 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Santiago Hoyos Gómez</h1>
-<h3 align="center">A passionate data analyst from Colombia</h3>
+<h1 align="center">Hi 🧔🏻‍♂️👋🏻, I'm Santiago Hoyos Gómez</h1>
+<h3 align="center">A passionate data analyst from Colombia📊🧮❤️</h3>
+
+<p align="center">
+  <img src="https://github.com/santiagohg619/santiagohg619/assets/75264170/f04e660d-45a6-4a4a-acb3-28cad2b195f4" alt="Texto alternativo">
+</p>
+
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 - 👨‍💻 All of my projects are available at [https://github.com/santiagohg619?tab=repositories](https://github.com/santiagohg619?tab=repositories)
